@@ -1,0 +1,10 @@
+*.iml
+local.properties
+.gradle
+.idea
+/build
+
+## 清空缓存
+## git rm -r --cached .
+## git add .
+## git commit -m "clear cached"
